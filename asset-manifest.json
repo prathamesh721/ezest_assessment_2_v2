@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ezest_assessment_2_v2/static/css/main.d7e888d0.css",
+    "main.js": "/ezest_assessment_2_v2/static/js/main.ca4acbd3.js",
+    "static/js/787.52287e22.chunk.js": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js",
+    "index.html": "/ezest_assessment_2_v2/index.html",
+    "main.d7e888d0.css.map": "/ezest_assessment_2_v2/static/css/main.d7e888d0.css.map",
+    "main.ca4acbd3.js.map": "/ezest_assessment_2_v2/static/js/main.ca4acbd3.js.map",
+    "787.52287e22.chunk.js.map": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e888d0.css",
+    "static/js/main.ca4acbd3.js"
+  ]
+}
