@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ezest_assessment_2_v2/static/css/main.d5528c9d.css",
-    "main.js": "/ezest_assessment_2_v2/static/js/main.88f0ebf6.js",
+    "main.js": "/ezest_assessment_2_v2/static/js/main.c772b03b.js",
     "static/js/787.52287e22.chunk.js": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js",
     "static/media/heroBanner.PNG": "/ezest_assessment_2_v2/static/media/heroBanner.eb29aa0007b983ff449a.PNG",
     "static/media/sliders.svg": "/ezest_assessment_2_v2/static/media/sliders.0bc0acedaae026b86f71690af143e99e.svg",
@@ -29,11 +29,11 @@
     "static/media/chevron-down.svg": "/ezest_assessment_2_v2/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "static/media/square.svg": "/ezest_assessment_2_v2/static/media/square.20a62a05f69ed3d7d026edb084c0b5c3.svg",
     "main.d5528c9d.css.map": "/ezest_assessment_2_v2/static/css/main.d5528c9d.css.map",
-    "main.88f0ebf6.js.map": "/ezest_assessment_2_v2/static/js/main.88f0ebf6.js.map",
+    "main.c772b03b.js.map": "/ezest_assessment_2_v2/static/js/main.c772b03b.js.map",
     "787.52287e22.chunk.js.map": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5528c9d.css",
-    "static/js/main.88f0ebf6.js"
+    "static/js/main.c772b03b.js"
   ]
 }
