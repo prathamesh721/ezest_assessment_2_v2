@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ezest_assessment_2_v2/static/css/main.d5528c9d.css",
-    "main.js": "/ezest_assessment_2_v2/static/js/main.02b881ce.js",
+    "main.css": "/ezest_assessment_2_v2/static/css/main.7040ec08.css",
+    "main.js": "/ezest_assessment_2_v2/static/js/main.a9282da5.js",
     "static/js/787.52287e22.chunk.js": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js",
     "static/media/heroBanner.PNG": "/ezest_assessment_2_v2/static/media/heroBanner.eb29aa0007b983ff449a.PNG",
     "static/media/sliders.svg": "/ezest_assessment_2_v2/static/media/sliders.0bc0acedaae026b86f71690af143e99e.svg",
@@ -15,7 +15,9 @@
     "static/media/feather.svg": "/ezest_assessment_2_v2/static/media/feather.b8493c1306b4dd9a5c7a2e14a2095e51.svg",
     "static/media/x-circle.svg": "/ezest_assessment_2_v2/static/media/x-circle.748bc98eaf481fda8e7e2bcd377dec00.svg",
     "static/media/refresh-ccw.svg": "/ezest_assessment_2_v2/static/media/refresh-ccw.68da2a5555b174d6f2fc88495cdd11b4.svg",
+    "static/media/arrow-right-circle.svg": "/ezest_assessment_2_v2/static/media/arrow-right-circle.53012157e7cf42a6060ca177236246ef.svg",
     "static/media/shopping-bag.svg": "/ezest_assessment_2_v2/static/media/shopping-bag.7865a20d4f73677ab5144fd6411a11f8.svg",
+    "static/media/arrow-left-circle.svg": "/ezest_assessment_2_v2/static/media/arrow-left-circle.aaa4a3d2502a7e5f0533e344a0093ec4.svg",
     "static/media/layers.svg": "/ezest_assessment_2_v2/static/media/layers.c7a19f7a66511208890b90729b6a868f.svg",
     "static/media/search.svg": "/ezest_assessment_2_v2/static/media/search.2a57860d6510d9d8509b76702dbc35f7.svg",
     "static/media/user.svg": "/ezest_assessment_2_v2/static/media/user.91483d78eeba2c3d646d79ed77b449f4.svg",
@@ -25,12 +27,12 @@
     "static/media/edit-2.svg": "/ezest_assessment_2_v2/static/media/edit-2.d788d68fd7e2875db7c43ca534d47048.svg",
     "static/media/facebook.svg": "/ezest_assessment_2_v2/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
     "static/media/chevron-down.svg": "/ezest_assessment_2_v2/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
-    "main.d5528c9d.css.map": "/ezest_assessment_2_v2/static/css/main.d5528c9d.css.map",
-    "main.02b881ce.js.map": "/ezest_assessment_2_v2/static/js/main.02b881ce.js.map",
+    "main.7040ec08.css.map": "/ezest_assessment_2_v2/static/css/main.7040ec08.css.map",
+    "main.a9282da5.js.map": "/ezest_assessment_2_v2/static/js/main.a9282da5.js.map",
     "787.52287e22.chunk.js.map": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5528c9d.css",
-    "static/js/main.02b881ce.js"
+    "static/css/main.7040ec08.css",
+    "static/js/main.a9282da5.js"
   ]
 }
