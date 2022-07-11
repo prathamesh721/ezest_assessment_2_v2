@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ezest_assessment_2_v2/static/css/main.a47dedd6.css",
-    "main.js": "/ezest_assessment_2_v2/static/js/main.2d17a325.js",
+    "main.js": "/ezest_assessment_2_v2/static/js/main.384a334f.js",
     "static/js/787.52287e22.chunk.js": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js",
     "static/media/heroBanner.PNG": "/ezest_assessment_2_v2/static/media/heroBanner.eb29aa0007b983ff449a.PNG",
     "static/media/sliders.svg": "/ezest_assessment_2_v2/static/media/sliders.0bc0acedaae026b86f71690af143e99e.svg",
@@ -28,11 +28,11 @@
     "static/media/facebook.svg": "/ezest_assessment_2_v2/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
     "static/media/chevron-down.svg": "/ezest_assessment_2_v2/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "main.a47dedd6.css.map": "/ezest_assessment_2_v2/static/css/main.a47dedd6.css.map",
-    "main.2d17a325.js.map": "/ezest_assessment_2_v2/static/js/main.2d17a325.js.map",
+    "main.384a334f.js.map": "/ezest_assessment_2_v2/static/js/main.384a334f.js.map",
     "787.52287e22.chunk.js.map": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a47dedd6.css",
-    "static/js/main.2d17a325.js"
+    "static/js/main.384a334f.js"
   ]
 }
