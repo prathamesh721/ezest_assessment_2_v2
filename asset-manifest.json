@@ -1,8 +1,22 @@
 {
   "files": {
-    "main.css": "/ezest_assessment_2_v2/static/css/main.452939d7.css",
+    "main.css": "/ezest_assessment_2_v2/static/css/main.64e0f022.css",
     "main.js": "/ezest_assessment_2_v2/static/js/main.bb449a1f.js",
     "static/js/787.52287e22.chunk.js": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js",
+    "static/media/Muli-BlackItalic.ttf": "/ezest_assessment_2_v2/static/media/Muli-BlackItalic.b444bd826469fa5f5a4a.ttf",
+    "static/media/Muli-ExtraBoldItalic.ttf": "/ezest_assessment_2_v2/static/media/Muli-ExtraBoldItalic.aa2ebe0202bad539dc11.ttf",
+    "static/media/Muli-BoldItalic.ttf": "/ezest_assessment_2_v2/static/media/Muli-BoldItalic.69ca681c8cedd9d8abe8.ttf",
+    "static/media/Muli-Italic.ttf": "/ezest_assessment_2_v2/static/media/Muli-Italic.3e2543162c14fa554330.ttf",
+    "static/media/Muli-Black.ttf": "/ezest_assessment_2_v2/static/media/Muli-Black.f9eef4963ab4a050f3cb.ttf",
+    "static/media/Muli-ExtraBold.ttf": "/ezest_assessment_2_v2/static/media/Muli-ExtraBold.5021d95e474de31c42fb.ttf",
+    "static/media/Muli-SemiBoldItalic.ttf": "/ezest_assessment_2_v2/static/media/Muli-SemiBoldItalic.6022433a24a84a1e7905.ttf",
+    "static/media/Muli-LightItalic.ttf": "/ezest_assessment_2_v2/static/media/Muli-LightItalic.6a5477fb11179a340a97.ttf",
+    "static/media/Muli-Regular.ttf": "/ezest_assessment_2_v2/static/media/Muli-Regular.d08337b78196eb4754a0.ttf",
+    "static/media/Muli-Bold.ttf": "/ezest_assessment_2_v2/static/media/Muli-Bold.23a4f6051b5d1c12337c.ttf",
+    "static/media/Muli-SemiBold.ttf": "/ezest_assessment_2_v2/static/media/Muli-SemiBold.9498c8a5f7e6b141ec11.ttf",
+    "static/media/Muli-Light.ttf": "/ezest_assessment_2_v2/static/media/Muli-Light.26ef50addefd98335ab7.ttf",
+    "static/media/Muli-ExtraLightItalic.ttf": "/ezest_assessment_2_v2/static/media/Muli-ExtraLightItalic.b614a10058837e3e2f25.ttf",
+    "static/media/Muli-ExtraLight.ttf": "/ezest_assessment_2_v2/static/media/Muli-ExtraLight.6394d000a45e517d11aa.ttf",
     "static/media/heroBanner.PNG": "/ezest_assessment_2_v2/static/media/heroBanner.eb29aa0007b983ff449a.PNG",
     "static/media/sliders.svg": "/ezest_assessment_2_v2/static/media/sliders.0bc0acedaae026b86f71690af143e99e.svg",
     "static/media/share-2.svg": "/ezest_assessment_2_v2/static/media/share-2.c9452d8d0a01f15f7b30c66f52b97baa.svg",
@@ -27,12 +41,12 @@
     "static/media/edit-2.svg": "/ezest_assessment_2_v2/static/media/edit-2.d788d68fd7e2875db7c43ca534d47048.svg",
     "static/media/facebook.svg": "/ezest_assessment_2_v2/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
     "static/media/chevron-down.svg": "/ezest_assessment_2_v2/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
-    "main.452939d7.css.map": "/ezest_assessment_2_v2/static/css/main.452939d7.css.map",
+    "main.64e0f022.css.map": "/ezest_assessment_2_v2/static/css/main.64e0f022.css.map",
     "main.bb449a1f.js.map": "/ezest_assessment_2_v2/static/js/main.bb449a1f.js.map",
     "787.52287e22.chunk.js.map": "/ezest_assessment_2_v2/static/js/787.52287e22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.452939d7.css",
+    "static/css/main.64e0f022.css",
     "static/js/main.bb449a1f.js"
   ]
 }
